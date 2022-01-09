@@ -51,9 +51,9 @@ Web Server 응답 영상](https://youtu.be/vHGhSoK_rUY)
 #### 공통
 
 - User flow
-<img width="563" alt="UserFlow" src="https://user-images.githubusercontent.com/65281583/148675827-d5fed210-1400-43bc-b478-b6239418a5a8.png">
+<img width="560" alt="UserFlow" src="https://user-images.githubusercontent.com/65281583/148675827-d5fed210-1400-43bc-b478-b6239418a5a8.png">
 - ERD
-![ERD_MotherTerarosa](https://user-images.githubusercontent.com/65281583/148675806-d033b35c-d607-400b-8578-5a743b6cb0c4.png)
+- <img width="560" alt="TERAROSA_ERD" src="https://user-images.githubusercontent.com/65281583/148676023-e2f76413-9b27-47a1-87e1-d94c3d12693f.png">
 
 ### 프로젝트 아키텍쳐 소개
 
