@@ -51,9 +51,9 @@ Web Server 응답 영상](https://youtu.be/vHGhSoK_rUY)
 #### 공통
 
 - User flow
-[개인이 이미지 다시 처리](https://www.notion.so/613177d6b2fb41378ff4789af33e2575#0cc54341de5f48c4aa3e1049fb9544ae)
+<img width="563" alt="UserFlow" src="https://user-images.githubusercontent.com/65281583/148675827-d5fed210-1400-43bc-b478-b6239418a5a8.png">
 - ERD
-[개인이 이미지 다시 처리](https://www.notion.so/613177d6b2fb41378ff4789af33e2575#d278ed5703b04c9cb4a920357c2cbae3)
+![ERD_MotherTerarosa](https://user-images.githubusercontent.com/65281583/148675806-d033b35c-d607-400b-8578-5a743b6cb0c4.png)
 
 ### 프로젝트 아키텍쳐 소개
 
