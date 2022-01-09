@@ -1,6 +1,6 @@
 # MotherTerarosa
 
-## oo 프로젝트 Front-end/Back-end 소개
+## > 프로젝트 Front-end/Back-end 소개
 
 - 순수 국내 커피 체인점인 [테라로사](https://terarosa.com/) 클론 프로젝트
 - 짧은 프로젝트 기간동안 개발에 집중해야 하므로 디자인/기획 부분만 클론했습니다.
@@ -14,8 +14,13 @@
 - [백엔드 github 링크](https://github.com/wecode-bootcamp-korea/28-westagram-backend-4-team)
 
 ### 데모 영상(이미지 클릭)
+<br>
 
-- [데모 영상](https://wecode-bootcamp.slack.com/files/U02HVJ9LFGW/F02TF34RZQ9/motherterarosa_frontend.mov)
+[<img width=400px alt="Terarosa_스크린샷" src="https://user-images.githubusercontent.com/65281583/148673658-7f49afde-a2b3-4a78-b64c-a9fdb696ed01.png"> <br>
+Web Page 데모 영상](https://youtu.be/iVcn8SHp71Y)
+
+[<img width=400px alt="Terarosa_Server_스크린샷" src="https://user-images.githubusercontent.com/65281583/148675082-830bcdf3-8ce6-469c-b247-cd632c69efa1.png"> <br>
+Web Server 응답 영상](https://youtu.be/vHGhSoK_rUY)
 
 <br>
 
